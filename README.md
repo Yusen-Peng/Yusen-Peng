@@ -7,5 +7,8 @@ designing such models with the emphasis on the following three aspects:
 This is my personal website: \
 [https://yusen-peng.github.io](https://yusen-peng.github.io)
 
-Additionally, for more details about my research, You can download my CV here: \
+Additionally, for more details about my research, You can find my CV here: \
 [Yusen_Peng_CV.pdf](Yusen_Peng_CV.pdf)
+
+You can also find my unofficial transcript so far - I have been maintaining 4.0 GPA: \
+[Transcript.pdf](Transcript.pdf)
