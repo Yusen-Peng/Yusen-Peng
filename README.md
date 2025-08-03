@@ -8,4 +8,4 @@ This is my personal website: \
 [https://yusen-peng.github.io](https://yusen-peng.github.io)
 
 Additionally, for more details about my research, You can download my CV here: \
-[Yusen_Peng_CV.pdf](https://github.com/user-attachments/files/21458702/Yusen_Peng_CV.pdf)
+[Yusen_Peng_CV.pdf](Yusen_Peng_CV.pdf)
