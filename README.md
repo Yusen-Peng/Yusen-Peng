@@ -1,5 +1,3 @@
-<img src="banner.png" width="2000" height="400" alt="Yusen banner">
-
 My primary research interests lie in **vision-language models**. I always investigate different approaches to
 designing such models with the emphasis on the following three aspects:
 1. **Capability**: design robust, generalizable vision-language models that are data-adaptive and task-versatile
