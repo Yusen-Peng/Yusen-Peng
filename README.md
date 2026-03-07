@@ -1,7 +1,6 @@
-I am Yusen Peng, a final year undergraduate Computer Science and Engineering (CSE) student at The Ohio State University (OSU), graduating in Spring 2026. I am actively seeking PhD position in Fall 2026 in vision-language models and multimodal learning.
+I am Yusen Peng, an incoming CSE PhD student at The Ohio State University (OSU), starting in Fall 2026. I am fortunate to be advised by [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar). Previously, I earned my B.S. in Computer Science and Engineering from The Ohio State University with Honor Research Distinction, supervised by [Dr. Alper Yilmaz](https://u.osu.edu/pcvlab/).
 
-This is my personal website: \
-[https://yusen-peng.github.io](https://yusen-peng.github.io)
+My current research interest is primarily multimodality with a specific focus on efficiency. I like to tackle this problem from two orthogonal perspectives:
 
-Additionally, for more details about my research, You can find my CV here: \
-[Yusen_Peng_CV.pdf](Yusen_Peng_CV.pdf)
+- data sparsity - token pruning, token merging
+- weight sparsity - low-rank approximation (SVD), MoE
