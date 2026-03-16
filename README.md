@@ -4,3 +4,5 @@ My current research interest is primarily multimodality with a specific focus on
 
 - data sparsity - token pruning, token merging
 - weight sparsity - low-rank approximation (SVD), MoE
+
+Here is my updated CV (March 2026): [CV_Yusen_Peng](CV_Mar2026.pdf)
