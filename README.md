@@ -4,7 +4,7 @@ My research interest is primarily multimodal LLMs with a specific focus on effic
 
 Previously, I earned my B.S. in Computer Science and Engineering from The Ohio State University with Summa Cum Laude and Honor Research Distinction. I completed my undergrduate thesis under the supervision of [Dr. Alper Yilmaz](https://u.osu.edu/pcvlab/).
 
-Outside of research, I often do guitar recordings on my Instagram! I also enjoy kpop music from my favorite group - Le Sserafim (르세라핌).
+Outside of research, I often do guitar recordings on my Instagram! I also enjoy kpop music from my favorite group - Le Sserafim.
 
 “Act like an angel and dress like crazy.” - Kim Chaewon
 
