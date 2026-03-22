@@ -1,8 +1,11 @@
-I am Yusen Peng, an incoming CSE PhD student at The Ohio State University (OSU), starting in Fall 2026. I am fortunate to be advised by [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar). Previously, I earned my B.S. in Computer Science and Engineering from The Ohio State University with Honor Research Distinction, supervised by [Dr. Alper Yilmaz](https://u.osu.edu/pcvlab/).
+I am Yusen Peng, an incoming CSE PhD student at The Ohio State University (OSU), starting in Fall 2026. I am fortunate to have been advised by [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar) since my senior year as an undergraduate student at OSU 🌰!
 
-My current research interest is primarily multimodality with a specific focus on efficiency. I like to tackle this problem from two orthogonal perspectives:
+My research interest is primarily multimodal LLMs with a specific focus on efficiency. I am currently working on dynamic image tokenization and adaptive token merging to make vision language models (e.g., LLaVA, QwenVL) more efficient.
 
-- data sparsity - token pruning, token merging
-- weight sparsity - low-rank approximation (SVD), MoE
+Previously, I earned my B.S. in Computer Science and Engineering from The Ohio State University with Summa Cum Laude and Honor Research Distinction. I completed my undergrduate thesis under the supervision of [Dr. Alper Yilmaz](https://u.osu.edu/pcvlab/).
+
+Outside of research, I often do guitar recordings on my Instagram! I also enjoy kpop music from my favorite group - Le Sserafim (르세라핌).
+
+“Act like an angel and dress like crazy.” - Kim Chaewon
 
 Here is my updated CV (March 2026): [CV_Yusen_Peng](CV_Mar2026.pdf)
